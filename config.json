@@ -1,0 +1,8 @@
+{
+  "selenium_grid": false,
+  "browser": "chrome",
+  "binary": "/usr/bin/chromedriver",
+  "wait_time": 10,
+  "url": "https://www.perxtech.io/dashboard",
+  "hub_host": "localhost"
+}
